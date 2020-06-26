@@ -1,5 +1,5 @@
 # AF-graph
-Source code for the paper "Affinity Fusion Graph-based Framework for Natural Image Segmentation".The AF-Graph paper can be found [here](https://arxiv.org/abs/2006.13542).
+Source code for the paper "Affinity Fusion Graph-based Framework for Natural Image Segmentation". The AF-Graph paper can be found [here](https://arxiv.org/abs/2006.13542).
 
 AF-Graph is modified from [the offcial GL-Graph implementation](https://github.com/xiaofanglegoc/global-local-affinity-graph).
 

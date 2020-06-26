@@ -16,9 +16,11 @@ The BSDS300 dataset and predata (extracted features) can be downloaded from [GL-
 Run the demo `demo_AF_Graph_BSD300.m`.
 
 
-### Results
+### Results of BSD300
 The detailed results can be found in `evaluation.txt`.
 
+
+### Other results
 
 Coming soon!
 

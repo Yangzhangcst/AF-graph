@@ -13,7 +13,7 @@ The BSDS300 dataset and predata (extracted features) can be downloaded from [GL-
 
 
 ### Demo
-Run the demo `demo_AF_Graph_BSD300.m` in parallel on 4 workers (`parfor` in KSC-graph).
+Run the demo `demo_AF_Graph_BSD300.m` in parallel on 4 workers (`parfor` in `KSC_graph`).
 
 
 ### Results of BSD300

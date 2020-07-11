@@ -21,8 +21,7 @@ The detailed results can be found in `evaluation.txt`.
 
 
 ### Other results
-
-Coming soon!
+Results and codes of MSRC dataset can be found in [here](https://github.com/Yangzhangcst/AF-graph_all)
 
 
 ### Citing
